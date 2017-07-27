@@ -1,0 +1,16 @@
+{
+    "description": "Premed by Medpass",
+    "license": "MIT",
+    "devDependencies": {
+        "angular": "~1.5.0",
+        "angular-route": "~1.5.0",
+        "gulp-uglify": "^2.0.0",
+        "gulp-connect": "^5.0.0",
+        "angular-sanitize": "~1.5.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-livereload": "^3.8.1",
+        "gulp-html-dependencies": "^1.0.4",
+        "copy": "^0.3.0"
+    }
+}
